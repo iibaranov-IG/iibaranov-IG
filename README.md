@@ -28,4 +28,4 @@ Field experience with Telos Alliance / Axia, Barix, SOUND4, and AEQ systems.
 
 ## Collaboration
 
-Available for technical collaboration and consulting on AoIP audits, interoperability, migration planning, and incident analysis. To start a conversation, [open a discussion](https://github.com/iibaranov-IG/iibaranov-IG/discussions).
+Available for technical collaboration and consulting on AoIP audits, interoperability, migration planning, and incident analysis. To start a conversation, [open an issue](https://github.com/iibaranov-IG/iibaranov-IG/issues/new).
