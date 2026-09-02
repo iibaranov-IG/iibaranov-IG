@@ -18,6 +18,7 @@ Field experience with Telos Alliance / Axia, Barix, SOUND4, and AEQ systems.
 ## Selected open-source work
 
 - [AMWA NMOS Testing: handle session-level SDP connection data](https://github.com/AMWA-TV/nmos-testing/pull/907)
+- [AES67 Stream Monitor: build native audio modules on matching architectures](https://github.com/philhartung/aes67-monitor/pull/34)
 - [Livewire LWRP Companion module: expose all GPI and GPO variables](https://github.com/k2fc/companion-module-livewire-lwrp/pull/2)
 
 ## Current interests
