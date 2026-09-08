@@ -36,8 +36,10 @@ Available for technical collaboration and consulting on AoIP audits, interoperab
 If this work has helped your broadcast facility, voluntary donations help fund test equipment, real-device validation, and maintenance.
 
 - [Support via ЮMoney](https://yoomoney.ru/to/41001183423578)
-- USDT — Ethereum (ERC-20) only: `0xB04907EC7Fe04647def87C3e65fE3a281cC8cFDD`
+- USDT — Ethereum (ERC-20) or BNB Smart Chain (BEP-20): `0xB04907EC7Fe04647def87C3e65fE3a281cC8cFDD`
 
-<img src="assets/usdt-erc20-qr.svg" alt="QR code for the USDT ERC-20 address" width="180" />
+Please select **ERC-20 or BEP-20 only** when sending. Other networks are not supported.
+
+<img src="assets/usdt-erc20-qr.svg" alt="QR code for the USDT ERC-20 or BEP-20 address" width="180" />
 
 For urgent commercial or operational requests, email [iibaranov@gmail.com](mailto:iibaranov@gmail.com). I reply promptly on business days.
