@@ -30,3 +30,7 @@ Field experience with Telos Alliance / Axia, Barix, SOUND4, and AEQ systems.
 ## Collaboration
 
 Available for technical collaboration and consulting on AoIP audits, interoperability, migration planning, and incident analysis. To start a conversation, [open an issue](https://github.com/iibaranov-IG/iibaranov-IG/issues/new).
+
+## Support open-source work
+
+If this work has helped your broadcast facility, voluntary donations help fund test equipment, real-device validation, and maintenance. [Support via ЮMoney](https://yoomoney.ru/to/41001183423578).
