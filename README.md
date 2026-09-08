@@ -33,4 +33,7 @@ Available for technical collaboration and consulting on AoIP audits, interoperab
 
 ## Support open-source work
 
-If this work has helped your broadcast facility, voluntary donations help fund test equipment, real-device validation, and maintenance. [Support via ЮMoney](https://yoomoney.ru/to/41001183423578).
+If this work has helped your broadcast facility, voluntary donations help fund test equipment, real-device validation, and maintenance.
+
+- [Support via ЮMoney](https://yoomoney.ru/to/41001183423578)
+- USDT — Ethereum (ERC-20) only: `0xB04907EC7Fe04647def87C3e65fE3a281cC8cFDD`
