@@ -62,7 +62,7 @@ available evidence and acceptance criteria before committing to a delivery.
 
 If this work has helped your broadcast facility, voluntary donations help fund test equipment, real-device validation, and maintenance.
 
-- [Support via ЮMoney](https://yoomoney.ru/to/41001183423578)
+- [Support via ЮMoney](https://yoomoney.ru/to/410011834238578)
 - USDT — Ethereum (ERC-20) or BNB Smart Chain (BEP-20): `0xB04907EC7Fe04647def87C3e65fE3a281cC8cFDD`
 
 Please select **ERC-20 or BEP-20 only** when sending. Other networks are not supported.
