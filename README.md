@@ -6,30 +6,36 @@ I help investigate failures where broadcast software, audio networks and equipme
 need to work together: MIDI reconnection, PTZ control, OSC feedback, AES67/PTP
 synchronization and audio-software integration.
 
-I build [**Broadcast Control Lab (BCL)**](https://github.com/iibaranov-IG/broadcast-control-lab), an independent engineering lab
+I build [**Broadcast Control Lab (BCL)**](https://github.com/iibaranov-IG/iibaranov-IG-broadcast-control-lab-evidence), an independent engineering lab
 that turns concrete problems into reproducible checks, focused fixes and reviewable
 evidence. My work also includes AoIP audits, routing, redundancy, commissioning and
 migration planning for radio and broadcast environments.
 
-[Explore BCL](https://github.com/iibaranov-IG/broadcast-control-lab) ·
-[Bring a problem](https://github.com/iibaranov-IG/broadcast-control-lab/issues/new?template=repair-request.yml) ·
+[Public repair evidence](https://github.com/iibaranov-IG/iibaranov-IG-broadcast-control-lab-evidence) ·
+[Bring a problem](mailto:iibaranov@gmail.com?subject=BCL%20repair%20request) ·
 [Discuss engineering work](mailto:iibaranov@gmail.com) ·
 [Support open-source work](#support-open-source-work)
 
 ## Repairs accepted by maintainers
 
-Verified as merged on **14 September 2026**:
+Verified as merged on **21 September 2026**:
 
 | Project | Problem addressed | Upstream result |
 | --- | --- | --- |
+| Amical | Capture the active microphone channel on multichannel audio interfaces | [Merged #184](https://github.com/amicalhq/amical/pull/184) |
 | PiPedal | Bluetooth MIDI fails to reconnect when the ALSA port appears after its client | [Merged #587](https://github.com/rerdavies/pipedal/pull/587) |
 | RtAudio | Unix pthread flags appear in pkg-config metadata for MSVC consumers | [Merged #487](https://github.com/thestk/rtaudio/pull/487) |
 | Liquidsoap | Last.fm rejects the default Audioscrobbler HTTP endpoint | [Merged #5404](https://github.com/savonet/liquidsoap/pull/5404) |
 | FPP | Missing or malformed PTP management data can falsely indicate lock | [Merged #2942](https://github.com/FalconChristmas/fpp/pull/2942) |
 
-[Read the repair stories and validation limits](https://github.com/iibaranov-IG/broadcast-control-lab#repairs-accepted-by-upstream-maintainers).
+[Browse published repair evidence and validation limits](https://github.com/iibaranov-IG/iibaranov-IG-broadcast-control-lab-evidence).
 Maintainer acceptance, release availability and real-device validation are separate
 milestones. The FPP fix does not resolve the separate Pi 4/no-PHC clock issue.
+
+## Projects
+
+- [Axia Atlas](https://github.com/iibaranov-IG/axia-atlas) — an independent Windows workspace for Axia/Livewire discovery, monitoring and diagnostics. Source and portable preview are available; production and audio-reception validation remain in progress.
+- [BCL public evidence](https://github.com/iibaranov-IG/iibaranov-IG-broadcast-control-lab-evidence) — published repair records with upstream links, regression results and explicit verification limits. The core laboratory is private.
 
 ## Where I can help
 
@@ -49,7 +55,9 @@ Specific device and platform coverage is agreed for each investigation.
 
 ## Collaboration
 
-For a software failure, [open a BCL repair request](https://github.com/iibaranov-IG/broadcast-control-lab/issues/new?template=repair-request.yml)
+**Current availability — 21 September 2026:** work requiring my GitHub-hosted CI is paused until October 1 because the included Actions minutes are exhausted. You can still email reports and discuss scope; validated delivery dates will be agreed individually.
+
+For a software failure, [email a BCL repair request](mailto:iibaranov@gmail.com?subject=BCL%20repair%20request)
 with the device model, software/firmware version, expected behavior, reproduction
 steps and your ability to test on the real setup. Remove credentials and private
 data from public reports.
@@ -60,7 +68,7 @@ available evidence and acceptance criteria before committing to a delivery.
 
 ## Support open-source work
 
-If this work has helped your broadcast facility, voluntary donations help fund test equipment, real-device validation, and maintenance.
+If this work has helped your broadcast facility, voluntary donations help fund CI capacity, test equipment, real-device validation, and maintenance.
 
 - [Support via ЮMoney](https://yoomoney.ru/to/410011834238578)
 - USDT — Ethereum (ERC-20) or BNB Smart Chain (BEP-20): `0xB04907EC7Fe04647def87C3e65fE3a281cC8cFDD`
